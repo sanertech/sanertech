@@ -1,5 +1,5 @@
-# ⚡ SANER
-### **Smarter Networks. Saner Operations.**
+# ⚡ SANER  
+### Smarter Networks. Saner Operations.
 
 Welcome to the official GitHub organization for **SANER**.  
 We are building intelligent systems that bring **predictability, resilience, and sanity** to modern network infrastructures.
@@ -16,8 +16,7 @@ Today’s networks are more dynamic and distributed than ever, yet still rely on
 - High operational overhead  
 - Human bottlenecks  
 
-This leads to **fragile systems**, increased downtime, and operational burnout.
-
+This leads to **fragile systems**, increased downtime, and operational burnout.  
 This is the **insanity** we are solving.
 
 ---
@@ -33,13 +32,13 @@ We are building a new class of **AI-native network agents** that combine:
 - **Predictive analytics**  
 - **Self-healing capabilities**
 
-Our guiding principles:
+### Our guiding principles:
 
 - **From Reactive → Proactive:** Prevent incidents before they occur.  
 - **From Manual → Autonomous:** Intelligent root cause analysis and remediation.  
 - **From Complex → Simple:** Manage networks through natural language and high-level intent.
 
-This is the next evolution of NetOps.
+This is the next evolution of **NetOps**.
 
 ---
 
@@ -47,14 +46,32 @@ This is the next evolution of NetOps.
 
 We bring together expertise in:
 
-- AI/ML: Python, LangChain, LLMs (Large Language Models), Reinforcement Learning
-- Network Automation: Nornir, Netmiko, Napalm, Scrapli
-- Infrastructure & DevOps: Docker, Kubernetes, Terraform, Ansible
-- Observability: Prometheus, Grafana, OpenTelemetry
+### **AI / ML**
+- Python  
+- LangChain  
+- LLMs (Large Language Models)  
+- Reinforcement Learning  
 
-Our platform is being designed to meet the reliability and security requirements of enterprise-grade networking.
+### **Network Automation**
+- Nornir  
+- Netmiko  
+- Napalm  
+- Scrapli  
 
-> **Note:** SanerTech is currently in stealth development.  
+### **Infrastructure & DevOps**
+- Docker  
+- Kubernetes  
+- Terraform  
+- Ansible  
+
+### **Observability**
+- Prometheus  
+- Grafana  
+- OpenTelemetry  
+
+Our platform is being designed to meet the reliability and security requirements of **enterprise-grade networking**.
+
+> **Note:** SANER is currently in stealth development.  
 > Core technology and research are proprietary as we prepare for our initial launch.
 
 ---
@@ -63,8 +80,8 @@ Our platform is being designed to meet the reliability and security requirements
 
 We believe the future of network operations will be shaped collaboratively.
 
-- 🌐 **Website:** https://saner.ie *(Launching soon)*  
-- 📧 **Early Access:** info@saner.ie  
+- 🌐 Website: https://saner.ie *(Launching soon)*  
+- 📧 Early Access: **info@saner.ie**
 
 If you want to follow our journey,  
 ⭐ **Star this organization** to be notified when we release open-source frameworks, agents, and tools.
