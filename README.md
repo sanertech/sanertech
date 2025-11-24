@@ -42,34 +42,16 @@ This is the next evolution of **NetOps**.
 
 ---
 
-## Technology Stack
+## Technology
 
-We bring together expertise in:
+We are building our platform by bringing together state-of-the-art advancements in:
 
-### **AI / ML**
-- Python  
-- LangChain  
-- LLMs (Large Language Models)  
-- Reinforcement Learning  
+- **AI & Machine Learning**  
+- **Network Automation**  
+- **Cloud-Native Infrastructure**  
+- **Distributed Systems & Observability**
 
-### **Network Automation**
-- Nornir  
-- Netmiko  
-- Napalm  
-- Scrapli  
-
-### **Infrastructure & DevOps**
-- Docker  
-- Kubernetes  
-- Terraform  
-- Ansible  
-
-### **Observability**
-- Prometheus  
-- Grafana  
-- OpenTelemetry  
-
-Our platform is being designed to meet the reliability and security requirements of **enterprise-grade networking**.
+Our architecture is engineered from the ground up for the scale, reliability, and security demands of modern enterprise networks.
 
 > **Note:** SANER is currently in stealth development.  
 > Core technology and research are proprietary as we prepare for our initial launch.
